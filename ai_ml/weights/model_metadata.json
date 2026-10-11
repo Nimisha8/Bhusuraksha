@@ -1,0 +1,46 @@
+{
+  "model_type": "GradientBoostingClassifier",
+  "n_estimators": 120,
+  "max_depth": 4,
+  "features": [
+    "slope_degrees",
+    "aspect_sin",
+    "aspect_cos",
+    "elevation_m",
+    "twi",
+    "distance_to_road_m",
+    "lithology_index",
+    "fault_distance_km",
+    "rain_1h_mm",
+    "rain_24h_mm",
+    "rain_72h_mm",
+    "api_7_day",
+    "soil_saturation_pct",
+    "pore_water_pressure_kpa"
+  ],
+  "metrics": {
+    "test_accuracy": 0.942,
+    "roc_auc": 0.9492
+  },
+  "global_feature_importances": {
+    "slope_degrees": 0.35431282848581014,
+    "aspect_sin": 0.017757536848729917,
+    "aspect_cos": 0.017407869601011344,
+    "elevation_m": 0.012797022601273878,
+    "twi": 0.01311259048169119,
+    "distance_to_road_m": 0.00993441247983759,
+    "lithology_index": 0.0016405934219009925,
+    "fault_distance_km": 0.013623495703194719,
+    "rain_1h_mm": 0.01943868963288504,
+    "rain_24h_mm": 0.010723125040683965,
+    "rain_72h_mm": 0.38842850171309373,
+    "api_7_day": 0.07366270682907576,
+    "soil_saturation_pct": 0.05366852445694519,
+    "pore_water_pressure_kpa": 0.013492102703866617
+  },
+  "thresholds": {
+    "low": 0.3,
+    "moderate": 0.6,
+    "high": 0.8
+  }
+}

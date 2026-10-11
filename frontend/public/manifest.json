@@ -1,0 +1,18 @@
+﻿{
+  "short_name": "GeoSurge-NER",
+  "name": "GeoSurge-NER Landslide Early Warning System",
+  "description": "AI-Powered Landslide Risk Monitoring & Citizen Early Warning Platform for North Eastern Region (SIH26001)",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}

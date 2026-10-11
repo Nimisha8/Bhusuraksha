@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ZONE-SKM-001",
+      "properties": {
+        "zone_code": "SKM-NH10-Z1",
+        "name": "32nd Mile / Singtam Slope Sector",
+        "corridor_name": "NH-10 Sevoke-Gangtok",
+        "district": "Pakyong / Gangtok",
+        "state": "Sikkim",
+        "slope_degrees": 38.5,
+        "aspect": "SE",
+        "soil_type": "Daling Group Quartzite-Phyllite",
+        "twi": 8.4,
+        "road_criticality": 5,
+        "population_exposure": 4,
+        "baseline_hazard_score": 72.0,
+        "current_hazard_score": 76.5,
+        "risk_tier": "HIGH"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [88.4900, 27.2200],
+            [88.5300, 27.2200],
+            [88.5400, 27.2600],
+            [88.5000, 27.2700],
+            [88.4900, 27.2200]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ZONE-SKM-002",
+      "properties": {
+        "zone_code": "SKM-NH10-Z2",
+        "name": "Teesta Bazar Toe-Erosion Gorge",
+        "corridor_name": "NH-10 Sevoke-Gangtok",
+        "district": "Kalimpong Border / South Sikkim",
+        "state": "Sikkim",
+        "slope_degrees": 42.0,
+        "aspect": "E",
+        "soil_type": "Fragile Weathered Gneiss & Colluvium",
+        "twi": 9.1,
+        "road_criticality": 5,
+        "population_exposure": 3,
+        "baseline_hazard_score": 84.0,
+        "current_hazard_score": 88.0,
+        "risk_tier": "CRITICAL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [88.4100, 27.0400],
+            [88.4500, 27.0400],
+            [88.4600, 27.0800],
+            [88.4200, 27.0900],
+            [88.4100, 27.0400]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ZONE-ML-001",
+      "properties": {
+        "zone_code": "ML-NH6-Z1",
+        "name": "Umiam (Barapani) Cut-Slope Basin",
+        "corridor_name": "NH-6 Guwahati-Shillong",
+        "district": "Ri-Bhoi",
+        "state": "Meghalaya",
+        "slope_degrees": 34.0,
+        "aspect": "NW",
+        "soil_type": "Shillong Group Quartzite & Residual Clay",
+        "twi": 7.2,
+        "road_criticality": 5,
+        "population_exposure": 4,
+        "baseline_hazard_score": 45.0,
+        "current_hazard_score": 52.0,
+        "risk_tier": "MODERATE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [91.8800, 25.6400],
+            [91.9300, 25.6400],
+            [91.9400, 25.6900],
+            [91.8900, 25.6900],
+            [91.8800, 25.6400]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ZONE-NL-001",
+      "properties": {
+        "zone_code": "NL-NH29-Z1",
+        "name": "Zubza Sinking Zone Active Subsidence Sector",
+        "corridor_name": "NH-29 Dimapur-Kohima",
+        "district": "Kohima",
+        "state": "Nagaland",
+        "slope_degrees": 37.0,
+        "aspect": "SW",
+        "soil_type": "Disang Shale Interbedded Siltstone",
+        "twi": 8.9,
+        "road_criticality": 5,
+        "population_exposure": 4,
+        "baseline_hazard_score": 78.0,
+        "current_hazard_score": 83.5,
+        "risk_tier": "CRITICAL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [94.0000, 25.6900],
+            [94.0500, 25.6900],
+            [94.0600, 25.7400],
+            [94.0100, 25.7400],
+            [94.0000, 25.6900]
+          ]
+        ]
+      }
+    }
+  ]
+}
