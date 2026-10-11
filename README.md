@@ -1,7 +1,6 @@
-# SIH26001 – AI-Based Early Warning & Landslide Risk Monitoring System (NER)
+# AI-Based Early Warning & Landslide Risk Monitoring System (NER)
 
 > **Disaster Intelligence & Early Warning Platform for the North Eastern Region of India**  
-> *Developed for Smart India Hackathon (SIH) 2026 | Problem Statement: SIH26001*
 
 ---
 
