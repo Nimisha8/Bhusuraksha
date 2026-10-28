@@ -106,6 +106,4 @@ npm run dev
 .venv\Scripts\pytest backend\tests -v
 ```
 
----
 
-*Built for disaster resilience in Northeast India's most vulnerable corridors — NH-10 (Sikkim), NH-6 (Assam/Meghalaya), NH-29 (Nagaland).*
